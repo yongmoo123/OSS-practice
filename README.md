@@ -12,3 +12,4 @@ MY github page is avilable [here](https://github.com/yongmoo123)
 ### finsigh
 saㅁㄴsadasdadas
 #E###ASDASDASDASD
+진정한 개발자가 되어보자
